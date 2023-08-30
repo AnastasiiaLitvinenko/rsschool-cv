@@ -1,30 +1,43 @@
-### Anastasiia Litvinenko
+## Anastasiia Litvinenko
 ***
-#### Contact Information
-***
+### Contact Information
 Podgorica, Montenegro
 
-**GitHub:** [https://github.com/AnastasiiaLitvinenko] ("AnastasiiaLitvinenko")
+**GitHub:** [AnastasiiaLitvinenko] (https://github.com/AnastasiiaLitvinenko)
 
 ***
-#### About Me:
+### About Me:
 I am willing to learn to code.
 
-#### Skills:
-* HTML 1
-* CSS 2
-* JavaScript 3
-* Editors: Sublime Text, VSCode 4
+### Skills:
+* HTML
+* CSS
+* JavaScript
+* *Editors*: Sublime Text, VSCode
 
-#### Code example:
+### Code example:
+```
+function isPalindrome(string) {
+  if (string.length <= 1) {
+    return true;
+  }
+  
+  if (string[0].toLowerCase() !== string[string.length - 1].toLowerCase()) {
+    return false;
+  }
+  
+  return isPalindrome(string.slice(1, string.length - 1));
+}
+console.log(isPalindrome("aрозаупаланалапуазора"));
+```
 
-#### Education:
-* **Udemy:** [https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350028#overview] ("The Complete 2023 Web Development Bootcamp")
-* **FreeCodeCamp:** [https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers] ("Responsive Web Design")
-* **Stepik:** [https://stepik.org/course/52164/syllabus] ("Основы HTML и CSS")
-* **Stepik:** [https://stepik.org/course/2223/syllabus] ("JavaScript для начинающих")
+### Education:
+* **Udemy:** [The Complete 2023 Web Development Bootcamp] (https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350028#overview)
+* **FreeCodeCamp:** [Responsive Web Design] (https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers)
+* **Stepik:** [Основы HTML и CSS] (https://stepik.org/course/52164/syllabus)
+* **Stepik:** [JavaScript для начинающих] (https://stepik.org/course/2223/syllabus)
 
-#### Languages:
+### Languages:
 * **Russian** - native
 * **English** - C1
 * **Italian** - B2
