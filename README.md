@@ -1,2 +1,1 @@
-https://AnastasiiaLitvinenko
-.github.io/rsschool-cv/cv
+https://AnastasiiaLitvinenko.github.io/rsschool-cv/cv
