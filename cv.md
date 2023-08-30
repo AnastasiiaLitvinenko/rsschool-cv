@@ -1,5 +1,4 @@
 ## Anastasiia Litvinenko
-***
 ### Contact Information
 Podgorica, Montenegro
 
