@@ -19,12 +19,12 @@ I am willing to learn to code.
 #### Code example:
 
 #### Education:
-* Udemy: The Complete 2023 Web Development Bootcamp
-* FreeCodeCamp: Responsive Web Design
-* Stepik: Основы HTML и CSS
-* Stepik: JavaScript для начинающих
+* **Udemy:** [https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350028#overview] ("The Complete 2023 Web Development Bootcamp")
+* **FreeCodeCamp:** [https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-colors-by-building-a-set-of-colored-markers] ("Responsive Web Design")
+* **Stepik:** [https://stepik.org/course/52164/syllabus] ("Основы HTML и CSS")
+* **Stepik:** [https://stepik.org/course/2223/syllabus] ("JavaScript для начинающих")
 
 #### Languages:
-* Russian - native
-* English - C1
-* Italian - B2
+* **Russian** - native
+* **English** - C1
+* **Italian** - B2
